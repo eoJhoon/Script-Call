@@ -3,6 +3,7 @@
 
 
 //autor:eoJhoon
+
 const { joinVoiceChannel } = require('@discordjs/voice');
 
 client.on("ready", () => {
